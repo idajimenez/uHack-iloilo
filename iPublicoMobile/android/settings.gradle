@@ -1,0 +1,3 @@
+rootProject.name = 'iPublicoMobile'
+
+include ':app'
